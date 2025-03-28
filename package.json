@@ -2,7 +2,7 @@
   "name": "student-management-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://simonlotzkar.github.io/",
+  "homepage": "https://4870gh.github.io/",
   "dependencies": {
     "axios": "^0.21.1",
     "mssql": "^11.0.1",
